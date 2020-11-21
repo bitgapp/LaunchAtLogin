@@ -8,7 +8,7 @@ This package works with both sandboxed and non-sandboxed apps and it's App Store
 
 ## Requirements
 
-- macOS 10.12+
+- macOS 10.10+
 - Xcode 12+
 - Swift 5.3+
 
